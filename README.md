@@ -10,10 +10,10 @@
 
 #### 역할 분담
 ⌨️ [Seung-min-88](https://github.com/Seung-min-88) : 회원가입, 로그인, 유저 정보 및 인증인가 + Redis 설정  <p>
-🐣 [YEIN JO](https://github.com/codingTrip-IT) : 가게 생성, 읽기, 업데이트, 삭제 등 전체 기능 + 스웨거 설정 <p>
-🗿 [Seoyeon](https://github.com/MythologyDevSeoyeon) : 사장이 관리할 메뉴와 메뉴에 대한 옵션 기능 + 소유한 가게 Cache <p>
-🦥 [younghwan314](https://github.com/younghwan314) : 고객의 주문 생성, 사장의 수락여부, 주문 상태 수정 등 주문 기능 <p>
-🍊 [KWON EUNSEO](https://github.com/euuns) : 주문에 대한 리뷰 생성, 읽기, 수정, 삭제 등 주문 기능
+🗿 [Seoyeon](https://github.com/MythologyDevSeoyeon) : 가게 생성, 읽기, 업데이트, 삭제 등 전체 기능 + 스웨거 설정 <p>
+🍊 [KWON EUNSEO](https://github.com/euuns) : 사장이 관리할 메뉴와 메뉴에 대한 옵션 기능 + 소유한 가게 Cache <p>
+🐣 [YEIN JO](https://github.com/codingTrip-IT) : 고객의 주문 생성, 사장의 수락여부, 주문 상태 수정 등 주문 기능 <p>
+🦥 [younghwan314](https://github.com/younghwan314) : 주문에 대한 리뷰 생성, 읽기, 수정, 삭제 등 주문 기능
 
 <br>
 
